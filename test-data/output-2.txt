@@ -1,0 +1,5 @@
+No ship has been initialized # Fire
+SUCCESS # Creation
+SUCCESS # 1st fire
+SUCCESS # 2nd fire
+FAIL # 3rd fire
